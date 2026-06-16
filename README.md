@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Chris Chen / CH
+# 👋 Hi, I'm Happy Chen / CH
 
 [![GitHub followers](https://img.shields.io/github/followers/Happy-Chen-CH?style=social)](https://github.com/Happy-Chen-CH)
 [![Gitee](https://img.shields.io/badge/-Gitee-C71D23?style=flat-square)](https://gitee.com/chris_-chen)
