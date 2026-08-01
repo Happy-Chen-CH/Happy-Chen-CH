@@ -124,8 +124,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Happy-Chen-CH&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happy-Chen-CH&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Happy-Chen-CH&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Happy-Chen-CH&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8&amp;hide=html,css" />
 </div>
 
 ---
